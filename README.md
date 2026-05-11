@@ -1,5 +1,9 @@
 # **Phase 3: ZK Anonymous Buyer-Seller Relation System (Cairo)**
 
+### Group Members:
+•	Syed Muhammad Ahmer | BSCS23167
+•	Mashhood Shafqat | BSCS23188
+•	Ahmed Nadeem | BSCS23185
 
 ---
 
