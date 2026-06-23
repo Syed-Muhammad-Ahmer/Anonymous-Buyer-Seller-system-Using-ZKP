@@ -1,0 +1,12 @@
+[package]
+name = "prover"
+version = "0.1.0"
+edition = "2023_11"
+
+[dependencies]
+starknet = "2.6.0"
+
+[[target.executable]]
+
+[dev-dependencies]
+cairo_test = "2.18.0"
