@@ -37,7 +37,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://docs.swmansion.com/scarb/install.sh
 ### **1. Clone Repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/zk_anonymous_marketplace.git
+git clone https://github.com/Syed-Muhammad-Ahmer/Anonymous-Buyer-Seller-system-Using-ZKP.git
 cd zk_anonymous_marketplace
 ```
 
